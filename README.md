@@ -1,3 +1,4 @@
+![logo] (https://github.com/imarani494/imarani494/blob/main/Github.Banner.png.png)
 <h1 align="center">Hi 👋, I'm Imaran</h1>
 <h3 align="center">🌱 I'm a passionate Full Stack Web Developer who loves creating beautiful and functional User Interfaces. I'm currently looking for a creative team to collaborate with and build amazing projects together.</h3>
 
